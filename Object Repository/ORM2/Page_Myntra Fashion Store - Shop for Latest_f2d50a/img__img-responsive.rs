@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__img-responsive</name>
+   <tag></tag>
+   <elementGuidId>896373d7-63d2-4284-a946-8388491c7399</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='desktopSearchResults']/div[2]/section/ul/li/a/div/div/div/div/div/div[2]/div/div/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.slick-slide.slick-active.slick-center > div > div > picture.img-responsive > img.img-responsive</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/8/20/2c3c9db3-6b15-4a65-839d-6e9c4554a9371597875911258-1.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>FLYING BERRY Unisex Black 2 Pcs 3 Ply Anti Pollution Reusable Masks</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>FLYING BERRY Unisex Black 2 Pcs 3 Ply Anti Pollution Reusable Masks</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktopSearchResults&quot;)/div[@class=&quot;search-searchProductsContainer row-base&quot;]/section[1]/ul[@class=&quot;results-base&quot;]/li[@class=&quot;product-base&quot;]/a[1]/div[@class=&quot;product-imageSliderContainer&quot;]/div[@class=&quot;product-sliderContainer&quot;]/div[@class=&quot;slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-center&quot;]/div[1]/div[1]/picture[@class=&quot;img-responsive&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='desktopSearchResults']/div[2]/section/ul/li/a/div/div/div/div/div/div[2]/div/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='FLYING BERRY Unisex Black 2 Pcs 3 Ply Anti Pollution Reusable Masks'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/picture/img</value>
+   </webElementXpaths>
+</WebElementEntity>
